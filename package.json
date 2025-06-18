@@ -1,0 +1,16 @@
+{
+  "name": "fraser-clan-backend",
+  "version": "1.0.0",
+  "description": "Fraser Clan Heritage Backend API",
+  "main": "api/chat.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel"
+  },
+  "dependencies": {
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
